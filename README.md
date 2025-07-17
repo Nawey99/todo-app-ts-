@@ -26,7 +26,8 @@ A simple, web-based Todo List app built using **HTML**, **CSS**, and **TypeScrip
 2. Compile the TypeScript file:
    ```bash
    tsc script.ts
-This will generate a script.js file.
+   ```
+   This will generate a script.js file.
 
 3. Open the index.html file in your browser.
 4. Start managing your tasks!
